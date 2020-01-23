@@ -27,6 +27,4 @@ This information includes:
 
 Each time the same users name is entered, the HTML and PDF update. When a new username is entered new files are created for that user. 
 
-Here is a screen shot of what the PDF looks like once converted: 
-
-<img src="example.jpg">
+There are a couple of known styling issues where the formatting changes from the HTML to the PDF such as the photo not being centered, I'm still working on a fix for those.
