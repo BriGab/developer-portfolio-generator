@@ -27,6 +27,6 @@ This information includes:
 
 Each time the same users name is entered, the HTML and PDF update. When a new username is entered new files are created for that user. 
 
-Here is a screen shot of what the PDF looks like once coverted: 
+Here is a screen shot of what the PDF looks like once converted: 
 
-![](example.jpg) 
+![screenshot](example.jpg) 
