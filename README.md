@@ -29,4 +29,4 @@ Each time the same users name is entered, the HTML and PDF update. When a new us
 
 Here is a screen shot of what the PDF looks like once converted: 
 
-![screenshot](example.jpg) 
+<img src="example.jpg">
